@@ -172,6 +172,7 @@ h4 {
 .service-card p {
     color: #444444ab;
     padding: 0px 5px 0px 69.81px;
+    text-align: inherit;
 }
 .portfolio {
     padding-top: 80px;
