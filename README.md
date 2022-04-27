@@ -1,2 +1,3 @@
 # Template-One
-Responsive website using HTML&amp;CSS Only
+website using HTML&amp;CSS Only
+## Responsive for all Devices's Screen
